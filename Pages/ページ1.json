@@ -1,0 +1,209 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "2,4": "あいう",
+    "5,4": "xxx"
+  },
+  "AttachInfos": {
+    "2,6": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "商品テーブル",
+        "RowIndex": 2,
+        "ColumnIndex": 6,
+        "ColumnCount": 25,
+        "RowCount": 12,
+        "AllowEditInListview": true,
+        "AllowAddNewRow": true,
+        "ShowDeleteButton": true,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "ShowEditStatusIcon": true,
+        "Name": "リストビュー1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "3,6": {
+      "BindingInfo": {
+        "TableName": "商品テーブル",
+        "ColumnName": "ID"
+      }
+    },
+    "3,7": {
+      "BindingInfo": {
+        "TableName": "商品テーブル",
+        "ColumnName": "商品CD"
+      }
+    },
+    "3,10": {
+      "BindingInfo": {
+        "TableName": "商品テーブル",
+        "ColumnName": "商品名"
+      }
+    },
+    "3,15": {
+      "BindingInfo": {
+        "TableName": "商品テーブル",
+        "ColumnName": "単価"
+      }
+    },
+    "3,18": {
+      "BindingInfo": {
+        "TableName": "商品テーブル",
+        "ColumnName": "日付"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "BorderLeft": 0
+      },
+      {
+        "Formatter": 1
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "DarkGray",
+        "yyyy/m/d",
+        "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 0
+        }
+      ]
+    },
+    "CellStyles": {
+      "2,6": 0,
+      "2,7": 1,
+      "2,8": 1,
+      "2,9": 1,
+      "2,10": 1,
+      "2,11": 1,
+      "2,12": 1,
+      "2,13": 1,
+      "2,14": 1,
+      "2,15": 1,
+      "2,16": 1,
+      "2,17": 1,
+      "2,18": 1,
+      "2,19": 1,
+      "2,20": 1,
+      "2,21": 1,
+      "2,22": 1,
+      "2,23": 1,
+      "2,24": 1,
+      "2,25": 1,
+      "2,26": 1,
+      "2,27": 1,
+      "2,28": 1,
+      "2,29": 1,
+      "2,30": 2,
+      "3,6": 3,
+      "3,18": 4,
+      "3,30": 5,
+      "4,6": 3,
+      "4,30": 5,
+      "5,6": 3,
+      "5,30": 5,
+      "6,6": 3,
+      "6,30": 5,
+      "7,6": 3,
+      "7,30": 5,
+      "8,6": 3,
+      "8,30": 5,
+      "9,6": 3,
+      "9,30": 5,
+      "10,6": 3,
+      "10,30": 5,
+      "11,6": 3,
+      "11,30": 5,
+      "12,6": 3,
+      "12,30": 5,
+      "13,6": 6,
+      "13,7": 7,
+      "13,8": 7,
+      "13,9": 7,
+      "13,10": 7,
+      "13,11": 7,
+      "13,12": 7,
+      "13,13": 7,
+      "13,14": 7,
+      "13,15": 7,
+      "13,16": 7,
+      "13,17": 7,
+      "13,18": 7,
+      "13,19": 7,
+      "13,20": 7,
+      "13,21": 7,
+      "13,22": 7,
+      "13,23": 7,
+      "13,24": 7,
+      "13,25": 7,
+      "13,26": 7,
+      "13,27": 7,
+      "13,28": 7,
+      "13,29": 7,
+      "13,30": 8
+    },
+    "SheetStyle": {
+      "FontFamily": 2
+    }
+  },
+  "Spans": [
+    "4,6,10,25",
+    "3,7,1,3",
+    "3,10,1,5",
+    "3,15,1,3",
+    "3,18,1,7",
+    "2,7,1,3",
+    "2,10,1,5",
+    "2,15,1,3",
+    "2,18,1,7"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}

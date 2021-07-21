@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataConnectionSet>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="Forguncy">
+    <ConnectionString>Data Source=orcl;User ID=system;Password=Ora23456;Unicode=True</ConnectionString>
+    <DataBaseType>Oracle</DataBaseType>
+    <ID>3595c74d-f4fb-4bd0-b2de-e88fe1f656a2</ID>
+  </Item>
+</DataConnectionSet>
